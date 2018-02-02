@@ -1,7 +1,8 @@
 # Juno-Tensorflow-Speech-Recognition
 
 This repo is my first dive into a large Tensorflow Voice Recognition Process, created to be a personal assistant similar to Amazon Alexa or Google Assistant.
-##Dependencies
+
+## Dependencies
 Tensorflow
 TFLearn
 librosa
