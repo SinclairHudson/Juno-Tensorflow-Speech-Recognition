@@ -1,6 +1,13 @@
 # Juno-Tensorflow-Speech-Recognition
 
 This repo is my first dive into a large Tensorflow Voice Recognition Process, created to be a personal assistant similar to Amazon Alexa or Google Assistant.
+##Dependencies
+Tensorflow
+TFLearn
+librosa
+skikit-image
+numpy
+pyaudio (portaudio)
 
 ## The Current Process
 1. Start a stream of audio, recording overlapping instances of 0.8 second recordings
