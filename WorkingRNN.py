@@ -1,6 +1,7 @@
 import tensorflow as tf
 import os
 import format
+#Does this work???s
 saveDIR = "/media/sinclair/UBUNTU 16_0/TestZone/Models"
 element_size = 128 #128 down
 time_steps = 31 #31 across
